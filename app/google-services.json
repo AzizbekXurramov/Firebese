@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707171480698",
+    "project_id": "firebese-ee7a7",
+    "storage_bucket": "firebese-ee7a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707171480698:android:0f2442e49478f203ff37c3",
+        "android_client_info": {
+          "package_name": "uz.azizbekxurramov.firebese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707171480698-r80ecb7e0n6m23lumd01vn5bee49ooog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.azizbekxurramov.firebese",
+            "certificate_hash": "9d1f5f15bd41cd362b3f2921bc697bb54e9e5d5a"
+          }
+        },
+        {
+          "client_id": "707171480698-arnuivqad3u0gh1t2033mrofuteac3dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIjUzqBL-qfGiYviT_emc1YYtCWfyJoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707171480698-arnuivqad3u0gh1t2033mrofuteac3dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
